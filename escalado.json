@@ -1,5 +1,5 @@
 #ConfigPersonalizada.json
 {
-    "fileUris": ["https://raw.githubusercontent.com/jcrosasv/master/escalado.sh"],
-    "commandToExecute": "./escalado.sh"
+    "fileUris": ["https://raw.githubusercontent.com/jcrosasv/azure2/main/installNginx.sh"],
+    "commandToExecute": "./installNginx.sh"
 }
